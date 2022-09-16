@@ -1,0 +1,9 @@
+{
+  "name": "typescript-inversify",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "inversify": "4.13.0",
+    "reflect-metadata": "0.1.12"
+  }
+}
